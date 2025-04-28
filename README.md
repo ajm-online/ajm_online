@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Engineer-Jithu
+- 👋 Hi, I’m Abijith Murugan
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning AI-DS
 - 📫 How to reach me @jithuuu_17(insta)
